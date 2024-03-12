@@ -13,7 +13,16 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Rutas diseños: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
+-Link de referencia, https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
+- https://andygeek.com/posts/Creando-cards-en-flutter/
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- a.21308051280967@cbtis128.edu.mx Reyna Leticia Molina Villela
+
+- ![image](https://github.com/MolinaVRL128/Act14-rutas0967/assets/143743724/da745a95-79e3-4750-bb14-b354f6642369)
+- ![image](https://github.com/MolinaVRL128/Act14-rutas0967/assets/143743724/4206c3b2-7c49-4cde-89b7-880189588bfc) ![image](https://github.com/MolinaVRL128/Act14-rutas0967/assets/143743724/73e908d9-e67a-449d-a273-98699aefaef9)
+
+
+
